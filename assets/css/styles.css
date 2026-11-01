@@ -521,6 +521,7 @@ a:hover {
   display: grid;
   gap: 1rem;
   align-content: start;
+  max-width: 40rem;
 }
 
 .join-notes p {
